@@ -6,7 +6,7 @@ import React from "react";
 function SettingsScreen({navigation}) {
     return (
       <View style={{ flex: 1, alignItems: "center", justifyContent: "center" }}>
-        <Text>Details Screen</Text>
+        <Text>Settings Screen</Text>
         <TouchableOpacity style = {{
           backgroundColor: "lightblue",
           padding: 10,
